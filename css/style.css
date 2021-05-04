@@ -1,0 +1,18 @@
+html {
+  font-family: sans-serif;
+  font-weight: bold;
+  background: #eceff4;
+  color: #2e3440;
+}
+
+h1 {
+  text-align: center;
+}
+
+a {
+  color: inherit;
+}
+
+a:hover {
+  color: #5e81ac;
+}
